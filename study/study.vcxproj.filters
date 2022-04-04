@@ -13,10 +13,31 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Array">
+      <UniqueIdentifier>{cf09494f-d9b1-4d49-9818-5e9e42916bb4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2022.04.03.c">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="basic_Array.c">
+      <Filter>소스 파일\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="basic2_Array.c">
+      <Filter>소스 파일\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="apply_Array.c">
+      <Filter>소스 파일\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="example_Array.c">
+      <Filter>소스 파일\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="example_Array2.c">
+      <Filter>소스 파일\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="example_Array3.c">
+      <Filter>소스 파일\Array</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
