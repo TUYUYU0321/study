@@ -5,7 +5,7 @@
 int main() {
 	// 우리가 소수인지 판별하고 있는 수
 	int guess = 5; // 소수의 배열
-	int prime[1000]; // (현재까지 찾은 소수의 개수) -1
+	int prime[2020]; // (현재까지 찾은 소수의 개수) -1
 	
 	int index = 2; // for문 변수
 	int i,j;			// 소수인지 판별을 위해 쓰는 변수
@@ -41,9 +41,10 @@ int main() {
 		else {
 			guess++;
 		}
-		if (index >999) {
+		if (index >2345) {
 			break;
 			}
 	}
+	return 0;
 }
 

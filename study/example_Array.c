@@ -13,4 +13,5 @@ int main() {
 
 	printf("%d\n", i);
 	printf("전체 학생의 평균은 : %d\n", sum_all / i);
+	return 0;
 }

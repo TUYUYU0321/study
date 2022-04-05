@@ -42,5 +42,8 @@
     <ClCompile Include="apply_Array2.c">
       <Filter>소스 파일\Array</Filter>
     </ClCompile>
+    <ClCompile Include="examle_Array4.c">
+      <Filter>소스 파일\Array</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
