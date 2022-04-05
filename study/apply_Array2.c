@@ -17,8 +17,8 @@ int main() {
 	printf("1번째 소수 : 2\n");
 	printf("2번째 소수 : 3\n");
 
-	for (j = 2;j<20000;j++) {
-		for (i = 0;i < j;i++) {
+	for (;;) {
+		for (i = 0;i < index;i++) {
 			if ((guess % prime[i]) == 0) {
 				ok = 0;
 				break;
@@ -41,7 +41,9 @@ int main() {
 		else {
 			guess++;
 		}
-			
+		if (index >999) {
+			break;
+			}
 	}
 }
 
