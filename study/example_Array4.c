@@ -21,9 +21,12 @@ int main() {
         }
     }
 
-    for (int x = 0;x < 5;x++) {
-        printf("%d\n", arr[x]);
+    printf("%d\n", arr[4]);
+
+    /*for (int x = 4;x >= 0;x--) {
+       printf("%d\n", arr[x]);
     }
+    */
 
     return 0;
 }

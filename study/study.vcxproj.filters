@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Array">
       <UniqueIdentifier>{cf09494f-d9b1-4d49-9818-5e9e42916bb4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Array2">
+      <UniqueIdentifier>{de66203f-f12b-49ff-9636-59bf31cc62ba}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2022.04.03.c">
@@ -42,8 +45,11 @@
     <ClCompile Include="apply_Array2.c">
       <Filter>소스 파일\Array</Filter>
     </ClCompile>
-    <ClCompile Include="examle_Array4.c">
+    <ClCompile Include="example_Array4.c">
       <Filter>소스 파일\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="basic.c">
+      <Filter>소스 파일\Array2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
