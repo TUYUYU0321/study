@@ -60,5 +60,23 @@
     <ClCompile Include="basic_pointer2.c">
       <Filter>소스 파일\Pointer</Filter>
     </ClCompile>
+    <ClCompile Include="example_pointer.c">
+      <Filter>소스 파일\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="apply_pointer1.c">
+      <Filter>소스 파일\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="apply_pointer2.c">
+      <Filter>소스 파일\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="apply_pointer3.c">
+      <Filter>소스 파일\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="example_pointer2.c">
+      <Filter>소스 파일\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일\Pointer</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
