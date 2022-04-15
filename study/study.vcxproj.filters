@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\Pointer">
       <UniqueIdentifier>{e098f27c-b586-4d4d-8b67-92a0bbe42088}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Pointer2">
+      <UniqueIdentifier>{a981b244-858e-45ba-8bfd-4c08d68f4d73}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2022.04.03.c">
@@ -77,6 +80,15 @@
     </ClCompile>
     <ClCompile Include="test.c">
       <Filter>소스 파일\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="TEST2_POINTER.c">
+      <Filter>소스 파일\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="basic1_pointer2.c">
+      <Filter>소스 파일\Pointer2</Filter>
+    </ClCompile>
+    <ClCompile Include="basic2_pointer2.c">
+      <Filter>소스 파일\Pointer2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
