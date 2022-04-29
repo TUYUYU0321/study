@@ -1,4 +1,12 @@
 #include <stdio.h>
+int sum(int num) {
+	int result = 0;
+	for (int i = 1;i < num + 1;i++) {
+		result = result + i;
+	}
+	return result;
+}
+
 int main() {
 
 	int a;
@@ -8,10 +16,3 @@ int main() {
 	return 0;
 }
 
-int sum(int num) {
-	int result = 0;
-	for (int i=1;i < num+1;i++) {
-		result = result + i;	
-	}
-	return result;
-}
