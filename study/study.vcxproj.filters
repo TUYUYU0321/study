@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Pointer2">
       <UniqueIdentifier>{a981b244-858e-45ba-8bfd-4c08d68f4d73}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Function">
+      <UniqueIdentifier>{85b702d5-10e7-4876-b3e5-40de54be30dc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2022.04.03.c">
@@ -89,6 +92,33 @@
     </ClCompile>
     <ClCompile Include="basic2_pointer2.c">
       <Filter>소스 파일\Pointer2</Filter>
+    </ClCompile>
+    <ClCompile Include="basic_function.c">
+      <Filter>소스 파일\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="basic2_function.c">
+      <Filter>소스 파일\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="basic3_function.c">
+      <Filter>소스 파일\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="basic4_function.c">
+      <Filter>소스 파일\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="question1_function.c">
+      <Filter>소스 파일\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="question2_function.c">
+      <Filter>소스 파일\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="question3_function.c">
+      <Filter>소스 파일\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="question4_function.c">
+      <Filter>소스 파일\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="question5_function.c">
+      <Filter>소스 파일\Function</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
